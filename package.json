@@ -1,0 +1,27 @@
+{
+  "name": "node-js-course",
+  "version": "1.0.0",
+  "description": "Learning Node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdoahmed111/Node-ja-Course-.git"
+  },
+  "author": "abdelrahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdoahmed111/Node-ja-Course-/issues"
+  },
+  "homepage": "https://github.com/Abdoahmed111/Node-ja-Course-#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
