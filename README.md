@@ -1,2 +1,2 @@
-# Node-ja-Course
+# Node-js-Course
 Learning Node js
